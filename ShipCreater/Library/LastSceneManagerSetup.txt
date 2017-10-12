@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/ShipCreater.unity
+- path: Assets/Scene/ShipCreater.unity
   isLoaded: 1
   isActive: 1
